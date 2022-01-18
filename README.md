@@ -24,8 +24,8 @@ Pull requestler kabul edilir.Büyük değişiklikler için ,lütfen önce neyi d
 
 [MIT](https://github.com/ozkanalev/kodluyoruzilkdepo/blob/main/LICENSE)
 
----
-![Proje Resmi](https://github.com/repository/img/kodluyoruz.jpg)
+
+![Proje Resmi](https://avatars.githubusercontent.com/u/30476529?s=200&v=4)
 
 
 
